@@ -1,0 +1,22 @@
+body {
+  font-family: $font-family;
+  color: $font-black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  p {
+    font-family: $font-family-p;
+  }
+  span {
+    font-family: $font-family-p;
+  }
+
+  h1 {
+  }
+
+  h2 {
+  }
+
+  h3 {
+  }
+}

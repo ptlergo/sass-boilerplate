@@ -1,0 +1,31 @@
+/*
+  ===================================
+    Variables
+  ===================================
+*/
+
+$font-family-p: "", Arial, sans-serif;
+$font-family: "Montserrat", nunito, san-serif;
+
+$font-desktop-p: 2.2rem;
+$font-mobile-p: 1.6rem;
+$max-width: 130rem;
+$standard-padding: 1rem;
+$font-mobile-h1: 3.6rem;
+$font-mobile-h2: 1.8rem;
+
+$font-desktop-h1: 3.6rem;
+$font-desktop-h2: 1.8rem;
+
+$brand-black: #000;
+$font-black: #444;
+$off-white: #e3e3e3;
+$white: #fff;
+
+// A map of breakpoints.
+$breakpoints: (
+  xs: 576px,
+  sm: 769px,
+  md: 992px,
+  lg: 1200px
+);
